@@ -1,3 +1,12 @@
+Get etcher and install:
+https://etcher.io/
+
+Get rasbian image:
+https://www.raspberrypi.org/downloads/raspbian/
+Unzip to get to reveal .img file.
+
+Run etcher and write .img to microsd card.
+
 #### add an empty file called ssh to boot on sdcard before first boot
 
 ```
