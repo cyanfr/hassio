@@ -1,3 +1,4 @@
+## Obtain Software
 Get etcher and install:
 
 https://etcher.io/
