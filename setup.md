@@ -69,4 +69,4 @@ sudo reboot
 #### hassio takes about 20 mins to start first time
 
 #### now try to connect via browser
-[http://<192 local IP>:8123](http://<192 local IP>:8123)
+http://<192 local IP>:8123
