@@ -70,3 +70,17 @@ sudo reboot
 
 #### now try to connect via browser
 http://<192 local IP>:8123
+
+#### reconnect to raspbian shell
+```
+cd /usr/share/hassio/homeassistant
+sudo vi configuration.yaml
+```
+#### uncomment
+```
+api_password: !secret http_password
+```
+```
+sudo vi secrets.yaml
+```
+#### replace welcome with a real one# restart hassio
